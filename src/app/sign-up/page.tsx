@@ -1,7 +1,13 @@
 // SignUpFormPage
 
+import SignUpFormComponent from "./components/SignUpFormComponent"
+
 const SignUpFormPage = () => {
-  return <p>Sign Up</p>
+  return (
+    <main className="min-h-screen flex items-center justify-center bg-(--color-bg) px-4">
+      <SignUpFormComponent />
+    </main>
+  )
 }
 
 export default SignUpFormPage
