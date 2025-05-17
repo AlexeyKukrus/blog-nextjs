@@ -1,5 +1,4 @@
-// SignInFormPage
-
+'use client'
 import SignInFormComponent from "./components/SignInFormComponent"
 
 const SignInFormPage = () => {

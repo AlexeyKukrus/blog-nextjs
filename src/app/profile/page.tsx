@@ -1,5 +1,4 @@
-// ProfileFormPage
-
+'use client'
 const ProfileFormPage = () => {
   return <p>Profile</p>
 }

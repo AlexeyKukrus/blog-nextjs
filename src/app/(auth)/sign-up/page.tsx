@@ -1,5 +1,4 @@
-// SignUpFormPage
-
+'use client'
 import SignUpFormComponent from "./components/SignUpFormComponent"
 
 const SignUpFormPage = () => {
