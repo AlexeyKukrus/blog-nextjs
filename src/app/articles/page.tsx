@@ -1,5 +1,4 @@
-// ArticlesViewPage
-
+'use client'
 const ArticlesViewPage = () => {
   return <p>Articles</p>
 }

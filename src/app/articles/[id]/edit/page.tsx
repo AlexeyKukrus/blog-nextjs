@@ -1,5 +1,4 @@
-// ArticleEditFormPage
-
+'use client'
 const ArticleEditFormPage = () => {
   return <p>Article Edit</p>
 }
